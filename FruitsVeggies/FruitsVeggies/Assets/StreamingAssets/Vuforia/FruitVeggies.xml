@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="ladyfinger" size="5.000000 5.000000" />
+    <ImageTarget name="beetroot" size="5.000000 3.750000" />
+    <ImageTarget name="brinjal" size="5.000000 5.000000" />
+    <ImageTarget name="onion" size="5.000000 2.843333" />
+    <ImageTarget name="tomato" size="5.000000 3.333333" />
+    <ImageTarget name="potato" size="5.000000 7.518355" />
+    <ImageTarget name="papaya" size="5.000000 2.812500" />
+    <ImageTarget name="pineapple" size="5.000000 7.513661" />
+    <ImageTarget name="grapes" size="5.000000 6.885593" />
+    <ImageTarget name="bananas" size="5.000000 3.333333" />
+    <ImageTarget name="mango" size="5.000000 2.915385" />
+    <ImageTarget name="apple" size="5.000000 5.000000" />
+  </Tracking>
+</QCARConfig>
